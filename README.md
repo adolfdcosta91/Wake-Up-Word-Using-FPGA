@@ -24,7 +24,7 @@ As soon as you click on capture voice, the program open a one-second window to c
 
 Processing and Ploting captured signal in MatLab
 
-![Capture](https://github.com/adolfdcosta91/Wake-Up-Word-Using-FPGA/blob/master/GitHub/System.png)
+![Analysis](https://github.com/adolfdcosta91/Wake-Up-Word-Using-FPGA/blob/master/GitHub/Analysis.png)
 
 # Results
 
