@@ -20,10 +20,13 @@ Figure below show the GUI interface running on matlab that is used to capture th
 
 ![System Design](https://github.com/adolfdcosta91/Wake-Up-Word-Using-FPGA/blob/master/GitHub/Capture.png)
 
+
 As soon as you click on capture voice, the program open a one-second window to capture the wake up word. The signal is processed and plotted by MatLab, the data is then sent over the serial channel to the Altera Cyclone 4 FPGA. This signal is stored in the buffer and the model is used to predict the input. The system was designed only to recognise ONE or ZERO. 
 
-**Processing and Ploting captured signal in MatLab**<br />
-
+**Processing and Ploting captured signal in MatLab**
+&nbsp;
+&nbsp;
+&nbsp;
 
 ![Analysis](https://github.com/adolfdcosta91/Wake-Up-Word-Using-FPGA/blob/master/GitHub/Analysis.png)
 
